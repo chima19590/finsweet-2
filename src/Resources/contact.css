@@ -1,0 +1,27 @@
+#first {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+#text{
+    background-color: #F2F2F2;
+    padding: 7px;
+}
+#map {
+    position: relative;
+    height: 590px;
+    padding-bottom: 0px;
+}
+#shop {
+    position: absolute;
+    top: 300px;
+    width: 100%;
+    z-index: -2;
+}
+#s_map{
+    position: absolute;
+    top: 60px;
+    width: 820px;
+    left: 210px;
+}
